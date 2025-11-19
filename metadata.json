@@ -1,0 +1,5 @@
+{
+  "name": "Finanzas Personales MVP",
+  "description": "Una aplicación web progresiva (PWA) mobile-first para el seguimiento de gastos e ingresos, con visualización de datos y consejos financieros impulsados por IA.",
+  "requestFramePermissions": []
+}
